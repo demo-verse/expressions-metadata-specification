@@ -1,8 +1,9 @@
 # A metadata standard for attributes @ Expressions of Peace and Demands  
 
-This will be an observable process; where NFTs build peer-to-peer consensus interactions and history on blockchain. 
+This will be an observable process; where NFTs help build peer-to-peer consensus interactions and write/declare future on blockchain, from now.
 
-Currently extending ![ Opensea's metadata standard](https://docs.opensea.io/docs/metadata-standards#metadata-structure).
+
+![ Initiated metadata](https://github.com/demo-verse/expressions-metadata-standard/blob/main/metadata/expression_of_peace.json) for Expression of Peace, currently extending ![ Opensea's metadata standard](https://docs.opensea.io/docs/metadata-standards#metadata-structure).
 
 In the near future, an off-chain solution will be developed with ![holochain](https://holochain.org), for collaborative and private editing/expressing together. For persistence layer, IPFS and maybe filecoin will be there, and a few more solution on the table.
 
