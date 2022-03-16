@@ -2,9 +2,19 @@
 
 This will be an observable process; where NFTs build peer-to-peer consensus interactions and history on blockchain. 
 
-A near future off-chain solution will be developed for collaboration and privacy together. At some point, that can be opened for access through holochain.
+Currently extending ![ Opensea's metadata standard](https://docs.opensea.io/docs/metadata-standards#metadata-structure).
 
+In the near future, an off-chain solution will be developed with ![holochain](https://holochain.org), for collaborative and private editing/expressing together. For persistence layer, IPFS and maybe filecoin will be there, and a few more solution on the table, including ![Lens protocol](https://lens.dev/) to create a twitter-like interaction adoption, facilitating engagement between peers.
 
+We might just start multiple projects around implementation/prototyping of the flows and see which side better evolves. 
+
+It might be the case that, we have multiple projects co-existing in multiple networks and ecosystems. 
+
+Expressions' NFTs will not be transferrable, they are part of our decentralised ids/DIDs.
+Incorporating with ![KILT protocol](https://kilt.io) on ![attestation](https://dev.kilt.io/docs/sdk/workshop/attestation) state. 
+Supplementing the flow, We'll soon create ![cTypes](https://dev.kilt.io/docs/sdk/workshop/attester/ctype) for Expressions of Peace and Demand.
+
+and incentives that reward with that token on Polkadot.
 
 ![](https://i.imgur.com/2TWGVMR.png)
 
