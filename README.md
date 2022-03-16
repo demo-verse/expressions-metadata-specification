@@ -24,7 +24,9 @@ Expressions of Peace and Demand; are designed as facilitating a future-driven pe
 
 They have types and scales, as attributes included; a single document as well can contain expressions 
 
+peer-to-peer:
 
+people-to-people
 org-2-people-2-org 
 org-to-org, 
 
