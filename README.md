@@ -18,6 +18,54 @@ Incorporating with ![KILT protocol](https://kilt.io) on ![attestation](https://d
 Supplementing the flow, we'll soon create ![cTypes](https://dev.kilt.io/docs/sdk/workshop/attester/ctype) for Expressions of Peace and Demand.
 As well as incentives that reward with $kilt on Polkadot network.
 
+
+```
+
+{
+  "name": "An Expression of Peace",
+  "description": "Expressions of Peace are individual assurances of a future-driven imagination and assurances of non-violent stands that are promised to the rest of the world as a social contract.",
+  "external_url": "https://demoVer.se",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/Qmcje4X3TSncH9VVuo4o79k3RAzPz5iLARRSP4xJfL6cY9",
+  "attributes": [
+    {
+        "display_type": "date", 
+        "trait_type": "expressedAt", 
+        "value": 1641000693
+      },
+    {
+      "trait_type": "NumberOfAcknowledgements",
+      "value": 3
+    },
+    {
+        "trait_type": "NumberOfAttestations",
+        "value": 0
+      },
+      {
+        "trait_type": "NumberOfRecognitions",
+        "value": 0
+      },
+    
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "ScaleOfExpression",
+      "value": 9
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "WisdomGained",
+      "value": 8
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "RespectGained",
+      "value": 8
+    }
+  ]
+}
+
+```
+
+
 ![](https://i.imgur.com/2TWGVMR.png)
 
 >> Constants, dynamics and conditionals of world peace:
