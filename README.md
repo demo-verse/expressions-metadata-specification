@@ -1,5 +1,5 @@
 
-# A metadata standard forExpressions of/for Peace and Demand NFTs.
+# An NFT metadata standard for Expressions of Peace
 
 This will be an observable process; where NFTs help build peer-to-peer consensus on peace-making. 
 
@@ -11,10 +11,10 @@ https://www.demover.se/a_flow_of_peace.png
 This metadata is an illustrative one, just to achieve a flow of peace, by and for billions and beyond. Bring your plan up, and use this if you need to start from somewhere, hopefully inspiring.
 
 
-Initiated an illustrative metadata for Expression of Peace; 
+Initiated an illustrative metadata for Expression of Peace / EoP; 
 https://github.com/demo-verse/expressions-metadata-standard/blob/main/metadata/expression_of_peace.json
 
-One ERC721 example (as in Disruptive Quote) deployed to Opensea:
+One ERC721 example of EoP, as in Disruptive Quote, deployed to Rinkeby testnet:
 https://testnets.opensea.io/assets/0x89206c5492d4a9814585924e7128d4cac53400c3/1
 
 currently extending Opensea's metadata standard:
