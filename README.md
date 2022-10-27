@@ -1,5 +1,5 @@
 
-# An NFT metadata standard for Expressions of Peace
+# An NFT metadata specification for Expressions of Peace
 
 This will be an observable process; where NFTs help build peer-to-peer consensus on peace-making. 
 
