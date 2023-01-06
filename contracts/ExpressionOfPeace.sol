@@ -21,12 +21,9 @@ contract ExpressionOfPeace is ERC721 {
         returns (uint256)
     {
         _expressionIds.increment();
-
         uint256 newId = _expressionIds.current();
         _mint(ExpressionOfPeace, newId);
         tokenURIs[newId] = aTokenURI;
-        //_setTokenURI(newId, tokenURI);
-
         return newId;
     }
 }
