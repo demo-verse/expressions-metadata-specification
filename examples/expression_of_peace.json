@@ -7,10 +7,19 @@
   "youtube_url": "",
   "attributes": [
     {
-        "display_type": "date", 
-        "trait_type": "expressedAt", 
-        "value": 1641000693
-      },
+      "display_type": "date",
+      "trait_type": "expressedAt",
+      "value": 1641000693
+    },
+    {
+      "display_type": "date",
+      "trait_type": "issuedAt",
+      "value": 1641000793
+    },
+    {
+      "trait_type": "Version",
+      "value": 1
+    },
     {
       "trait_type": "NumberOfAcknowledgements",
       "value": 1
@@ -20,12 +29,12 @@
       "value": 2
     },
     {
-        "trait_type": "NumberOfAttestations",
-        "value": 0
-      },
-      {
-        "trait_type": "NumberOfRecognitions",
-        "value": 0
-      }
+      "trait_type": "NumberOfAttestations",
+      "value": 0
+    },
+    {
+      "trait_type": "NumberOfRecognitions",
+      "value": 0
+    }
   ]
 }
